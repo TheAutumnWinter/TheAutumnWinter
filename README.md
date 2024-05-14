@@ -6,6 +6,11 @@
 - 😄 Pronouns: They/Her
 - ⚡ Fun fact: Conditions for East Germans because much worse after West Germany's annexation of the DDR
 
+
+
+TODO:
+Take a crack at porting ebmused to gnu+linux
+
 <!---
 TheAutumnWinter/TheAutumnWinter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
