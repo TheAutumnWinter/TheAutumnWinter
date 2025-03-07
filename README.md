@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheAutumnWinter
 - 👀 I’m interested in Politics
 - 🌱 I’m currently learning Irish(on break)
-- 💞️ I have started an attempt to port Mother 3 to PC (if willing to help me let me know)
+- 💞️ I have started an attempt to port Mother 3 to PC (on hold for other projects)
 - 📫 How to reach me: my github repositories, even if its not related to that repository its ok to try to talk to me through it
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
